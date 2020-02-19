@@ -4,7 +4,10 @@ import './App.css';
 
 function App() {
   return (
+    <div>
     <div>Learn React</div>
+    <div>I was changed</div>
+    </div>
   );
 }
 
