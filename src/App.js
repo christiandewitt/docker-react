@@ -5,6 +5,7 @@ import './App.css';
 function App() {
   return (
     <div>Learn React</div>
+    <div>I was changed</div>
   );
 }
 
